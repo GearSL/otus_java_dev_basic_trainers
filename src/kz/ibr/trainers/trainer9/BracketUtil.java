@@ -1,3 +1,5 @@
+package kz.ibr.trainers.trainer9;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 
